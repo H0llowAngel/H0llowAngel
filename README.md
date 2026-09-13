@@ -3,7 +3,7 @@
 
 <div align="center">
 
-${\color{#4C2565}\text{In &nbsp;&nbsp;&nbsp; a &nbsp;&nbsp;&nbsp; World &nbsp;&nbsp;&nbsp; full &nbsp;&nbsp;&nbsp; Of &nbsp;&nbsp;&nbsp; Princesse &nbsp;&nbsp;&nbsp; and &nbsp;&nbsp;&nbsp; they’re &nbsp;&nbsp;&nbsp; Knight}
+${\color{#4C2565}\text{In &nbsp;&nbsp;&nbsp; a &nbsp;&nbsp;&nbsp; World &nbsp;&nbsp;&nbsp; full &nbsp;&nbsp;&nbsp; Of &nbsp;&nbsp;&nbsp; Princesse &nbsp;&nbsp;&nbsp; and &nbsp;&nbsp;&nbsp; they’re &nbsp;&nbsp;&nbsp; Knight}}$
 
 <br><br>
 
