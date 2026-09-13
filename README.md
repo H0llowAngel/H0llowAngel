@@ -7,7 +7,7 @@ ${\color{#4C2565}\text{In &nbsp;&nbsp;&nbsp; a &nbsp;&nbsp;&nbsp; World &nbsp;&n
 
 <br><br>
 
-${\color{#4C2565}\text{your &nbsp;&nbsp;&nbsp; the }}$ ${\color{#DAB58D}\text{&nbsp;&nbsp;&nbsp; peasant }}$ &nbsp;&nbsp;&nbsp; ${\color{#4C2565}\text{to &nbsp;&nbsp;&nbsp; my }}$ ${\color{#4C2565}\text{&nbsp;&nbsp;&nbsp; Jester}}$
+${\color{#4C2565}\text{your &nbsp;&nbsp;&nbsp; the }}$ ${\color{#DAB58D}\text{&nbsp;&nbsp;&nbsp; peasant }}$ &nbsp;&nbsp;&nbsp; ${\color{#4C2565}\text{to &nbsp;&nbsp;&nbsp; my }}$ ${\color{#5B7C8F}\text{&nbsp;&nbsp;&nbsp; Jester}}$
 
 <br><br><br>
 
