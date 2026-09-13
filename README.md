@@ -11,6 +11,6 @@ ${\color{#4C2565}\text{your &nbsp;&nbsp;&nbsp; the }}$ ${\color{#DAB58D}\text{&n
 
 <br><br><br>
 
-${\color{#4C2565}\text{𓊆ྀི❤︎𓊇ྀི}}$
+${\color{#834776}\text{𓊆ྀི❤︎𓊇ྀི}}$
 
 </div>
