@@ -1,10 +1,5 @@
 
-<p align="center">
-  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/00008d32afb5ef643452f038f92572c5bf551587/Sans%20titre%20482_20260909222416.png"width="650">
-</p>
-<p align="center">
-  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/e7096945e2949ebe83cf49602ef5d657a353f7e6/Sans%20titre%20485_20260910183414.png"width="75">
-</p>
+
 <div align="center">
 
   ${\color{#D8C19A}\text{◞ She / her}}$  ·  ${\color{#DAB58D}\text{Asexual / Pansexual}}$ 
